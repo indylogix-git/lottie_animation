@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
           child: Padding(
             padding: const EdgeInsets.all(8.0),
             child: Container(
-            //Lottie animation is added a child widget
+             //Lottie animation is added a child widget
               child: Lottie.network("https://assets5.lottiefiles.com/packages/lf20_HX0isy.json"),
             ),
           ),
