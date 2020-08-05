@@ -14,6 +14,7 @@ class MyApp extends StatelessWidget {
           title: Text("Lottie Demo"),
         ),
         //Animation is
+
         body: Center(
           child: Padding(
             padding: const EdgeInsets.all(8.0),
