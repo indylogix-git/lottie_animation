@@ -13,6 +13,7 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           title: Text("Lottie Demo"),
         ),
+
         //Animation is
         body: Center(
           child: Padding(
