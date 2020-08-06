@@ -4,14 +4,14 @@ A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application. 
 
-A few resources to get you started if this is your first Flutter project:
+Using Lottie Library for Better Animation as Json file paste in assets folder and direct to access in body part.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+"Libray for Lottie" ===>  "lottie: ^0.4.1"
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For help getting started with Flutter,
+
+If you want to outsource your Flutter project, email us on info@indylogix.com
+
 # lottie_animation
